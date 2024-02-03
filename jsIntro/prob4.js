@@ -1,0 +1,16 @@
+  let name="Navdeep Thakur";
+let school ="Jahal";
+let grade = 86 ;
+let section ="A";
+let rollno =123456789;
+let markInMath  =85;
+let markInEnglish =84;
+let markInHindi = 89;
+console.log(name);
+console.log(school);
+console.log(section);
+console.log(rollno);
+console.log(markInEnglish);
+console.log(markInMath);
+console.log(markInHindi);
+console.log("total"+ (grade) +"percent");
